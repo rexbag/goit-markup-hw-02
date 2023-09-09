@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-https://rexbag.github.io/goit-markup-hw-01/
+# goit-markup-hw-02
+
+https://rexbag.github.io/goit-markup-hw-02/
