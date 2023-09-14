@@ -136,3 +136,7 @@ a {
     line-height: 1.5; /* 150% */
     letter-spacing: 0.32px;
 }
+
+.footer .logo .studio {
+    color:#F4F4FD;
+}
