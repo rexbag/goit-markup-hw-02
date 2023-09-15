@@ -19,11 +19,18 @@ h2.default {
     text-align: center;
 }
 
-h3.default {
+h3.title-team,
+h3.title-portfolio {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; /* 120% */
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
+}
+
+.text {
+    font-size: 16px;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.32px;
 }
 
 ul {
@@ -41,6 +48,8 @@ a {
     line-height: 1.5; /* 150% */
     letter-spacing: 0.32px;
 }
+
+
 .logo {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
@@ -88,7 +97,8 @@ a {
     cursor: pointer;
 }
 
-.main .button:hover {
+.main .button:hover,
+.main .button:focus {
     background-color: #404BBF;
 }
 
@@ -99,31 +109,26 @@ a {
     letter-spacing: 0.4px;
 }
 
-.features .text {
-    font-size: 16px;
-    line-height: 1.5; /* 150% */
-    letter-spacing: 0.32px;
-}
+
 
 .our-team {
     background-color: #F4F4FD;
 }
 
 .our-team .team-cards {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .our-team p {
     line-height: 1.5; /* 150% */
     letter-spacing: 0.32px;
-    font-size: 16px
+    font-size: 16px;
 }
 
 
-.portfolio .text {
-    font-size: 16px;
-    line-height: 1.5; /* 150% */
-    letter-spacing: 0.32px;
+
+.portfolio .portfolio-cards {
+    background-color: #FFFFFF;
 }
 
 .footer {
