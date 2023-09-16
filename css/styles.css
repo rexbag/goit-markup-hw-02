@@ -68,6 +68,7 @@ ol {
 .nav-link {
   color: #2e2f42;
   font-size: 16px;
+  font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
@@ -97,6 +98,10 @@ ol {
 .button {
   color: #ffffff;
   background-color: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
 }
 
 /*Section 2 features*/
@@ -113,6 +118,7 @@ ol {
 
 .subtitle-features {
   color: #2e2f42;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
@@ -139,6 +145,7 @@ ol {
   color: #2e2f42;
   text-align: center;
   font-size: 20px;
+  font-weight: 500;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
 }
@@ -156,6 +163,7 @@ ol {
 
 .portfolio-subtitle {
   color: #2e2f42;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
