@@ -74,10 +74,11 @@ ol {
 }
 
 .contact {
-  color: #434455;
+  font-style: normal;
 }
 
 .contact-link {
+  color: #434455;
   font-size: 16px;
   font-weight: 400;
   font-style: normal;
